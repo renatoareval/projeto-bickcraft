@@ -6,7 +6,7 @@ O objetivo do projeto é aplicar conceitos de **HTML**, **CSS** e **JavaScript**
 ---
 
 ## 🔗 Acesse o Projeto
-![Bikcraft Screenshot](https://bikcraft-vert.vercel.app)  
+!(https://bikcraft-vert.vercel.app)  
 
 ---
 
